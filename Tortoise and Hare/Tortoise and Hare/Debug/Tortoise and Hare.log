@@ -1,0 +1,3 @@
+﻿  Tortoise and Hare.cpp
+C:\Users\John\source\repos\Tortoise and Hare\Tortoise and Hare\Tortoise and Hare.cpp(184,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tortoise and Hare.vcxproj -> C:\Users\John\source\repos\Tortoise and Hare\Debug\Tortoise and Hare.exe
